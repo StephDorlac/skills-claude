@@ -26,3 +26,16 @@ Génère des messages de commit et de stash clairs, structurés et conventionnel
 - Liste des éléments affectés
 - Support des breaking changes, reverts et références de tickets
 - Conseils adaptés aux projets .NET et Java Spring
+
+### `rest-api-design`
+
+Expert en conception et implémentation d'APIs REST, tous langages et frameworks (C# .NET, Java Spring, Node.js, Python FastAPI, Go, PHP…).
+
+**Déclenchement** : dès que tu veux créer, concevoir, scaffolder, refactorer ou reviewer une API REST, ou que tu poses une question sur les bonnes pratiques REST.
+
+**Fonctionnalités :**
+- Checklist complète (URIs, méthodes HTTP, codes de statut, payload, pagination, sécurité)
+- Patterns courants : pagination cursor-based, erreurs Problem JSON (RFC 7807), opérations asynchrones
+- Adaptation automatique au langage/framework demandé
+- Génération de specs OpenAPI/Swagger
+- Basé sur les références Microsoft Azure, Zalando et autres sources reconnues
