@@ -39,3 +39,15 @@ Expert en conception et implémentation d'APIs REST, tous langages et frameworks
 - Adaptation automatique au langage/framework demandé
 - Génération de specs OpenAPI/Swagger
 - Basé sur les références Microsoft Azure, Zalando et autres sources reconnues
+
+### `tu-helper`
+
+Génère des règles de test unitaire claires et structurées pour tout langage et framework.
+
+**Déclenchement** : dès que tu veux créer des tests unitaires, écrire des règles de test, ou refactorer des tests existants.
+
+**Fonctionnalités :**
+- Génération de règles de test basées sur les bonnes pratiques (AAA, Given/When/Then)
+- Adaptation automatique au langage/framework demandé
+- Support des patterns de test courants (mocks, stubs, fixtures)
+- Conseils pour la couverture de test et la maintenabilité
